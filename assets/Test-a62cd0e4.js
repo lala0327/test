@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";import{i as s,o,c as r,j as i,a as c}from"./index-3927069d.js";const a={name:"Test",data(){return{}},watch:{},methods:{}},n=c("p",null,"sss",-1),_=[n];function d(l,m,p,h,f,u){const e=i("motion-slide-right");return s((o(),r("div",null,_)),[[e]])}const x=t(a,[["render",d]]);export{x as default};
